@@ -1,3 +1,3 @@
 # FabledHack
-Cheat Mod for the very difficult game, FabledLands
-see flapp.sourceforge.net
+Cheat Mod for the very difficult game, FabledLands!
+See flapp.sourceforge.net
