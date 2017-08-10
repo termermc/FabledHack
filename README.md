@@ -4,7 +4,7 @@ See flapp.sourceforge.net
 
 ******Building******
 
-To build, download source and just add the vanilla game (get it at flapp.sourceforge.net) as an external jar.
+To build, download source, add the vanilla game (get it at flapp.sourceforge.net) as an external jar, and then build as a runnable jarfile.
 
 ******Downloading******
 
